@@ -6,5 +6,13 @@ In this project, I sought to develop a new area of knowledge about web developme
 
 # Methodology
 <p align="justify">
-In this project, I used only HTML and CSS to run it. I tried to use divisions in the HTML programming to make it more organized and easy to visualize, as well as to facilitate the modification in the CSS. The font used on the page was exported from the "Google Fonts" website.
+In this project, I used only HTML and CSS to run it. I tried to use divisions in the HTML programming to make it more organized and easy to visualize, as well as to facilitate the modification in the CSS. The font used on the page was exported from the "Google Fonts" website. To make the page responsive, I had to modify the media screen in the CSS code so that when the page is collapsed, the selection items are still visible and that they don't break the page. When the page is zooming out, the selection items are aligned and scrolled on the side. And so that the page does not break, the image disappears.
 </p>
+
+# Techonologies used
++ HTML5
++ CSS3
++ Visual Studio Code
++ Google Fonts
+
+# Page in different sizes
