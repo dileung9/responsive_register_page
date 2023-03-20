@@ -15,4 +15,7 @@ In this project, I used only HTML and CSS to run it. I tried to use divisions in
 + Visual Studio Code
 + Google Fonts
 
-# Page in different sizes
+# Page images in different sizes
+
+# My contact
+You can find me on my [Linkedin](https://www.linkedin.com/in/diego-leung-de-souza-7a3528258/)
