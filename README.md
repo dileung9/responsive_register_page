@@ -1,6 +1,6 @@
 # Responsive Register Page
 <p align="justify">
-In this project, I sought to develop a new area of knowledge about web development. It is a responsive page, that is, a page where the design can adapt to different image sizes and resolutions.
+In this project, I sought to develop a new area of knowledge about web development. It is a responsive page in brazilian portuguese, that is, a page where the design can adapt to different image sizes and resolutions.
 </p>
 <img src="https://user-images.githubusercontent.com/124335351/226487235-9c1ebdbb-b5d7-4787-90c0-88ce918b6ca1.png" width=100%>
 
@@ -15,8 +15,15 @@ In this project, I used only HTML and CSS to run it. I tried to use divisions in
 + Visual Studio Code
 + Google Fonts
 
-# Page images in different sizes
-<img src="https://user-images.githubusercontent.com/124335351/226495511-30f63acc-4e08-4c9f-aabc-cd78b08f1a5e.jpeg" width=50% height=50%>
+# Page image in different size
+<p align = "center">
+<img src="https://user-images.githubusercontent.com/124335351/226496229-aaedd683-9713-4ca3-a5b4-f9d31dc7278e.jpeg" width=50% height=50%>
+</p>
+
+# How to use
+<p align="justify">
+To test that project, you just need to run the index.html archive on the repository. To see the CSS code and the image that i used, you can look at the assets folder.
+</p>
 
 # My contact
 You can find me on my [Linkedin](https://www.linkedin.com/in/diego-leung-de-souza-7a3528258/)
