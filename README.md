@@ -22,7 +22,7 @@ In this project, I used only HTML and CSS to run it. I tried to use divisions in
 
 # How to use
 <p align="justify">
-To test that project, you just need to run the index.html archive on the repository. To see the CSS code and the image that i used, you can look at the assets folder.
+To test that project, you just need to run the index.html archive on the repository. To see the CSS code and the image that i used, you can look in the assets folder.
 </p>
 
 # My contact
