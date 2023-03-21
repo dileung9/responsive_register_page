@@ -16,6 +16,7 @@ In this project, I used only HTML and CSS to run it. I tried to use divisions in
 + Google Fonts
 
 # Page images in different sizes
-<img src="" width=100% align="center">
+<img src="https://user-images.githubusercontent.com/124335351/226495071-6cd04c08-48fe-44c8-b06b-539eeb1616e3.jpeg" width=100%>
+
 # My contact
 You can find me on my [Linkedin](https://www.linkedin.com/in/diego-leung-de-souza-7a3528258/)
